@@ -32,5 +32,7 @@ https://www.reddit.com/r/Volkswagen/comments/t06s80/right_side_of_touchscreen_no
 
 Nejprve jsem pomocí plastových demontážních páčidel odstranil velký plastový kryt palubní desky, který zakrývá prostor kolem autorádia a ovládání klimatizace. Následně jsem pomocí šroubováku vyšrouboval čtyři upevňovací šrouby, autorádio jsem opatrně povytáhl z palubní desky a odpojil přívodní kabely. Poté jsem autorádio celé vyjmul z vozidla a přenesl na pracovní místo.
 
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/f68a6119-cd43-4865-bec0-365df10908ad" />
+
 
 
