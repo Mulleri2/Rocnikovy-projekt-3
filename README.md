@@ -14,10 +14,6 @@ Součástky: dotykový digitizér
 
 Nářadí: šroubovák, plastová páčidla, nůžky
 
-## Poděkování
-
-Rád bych poděkoval táťkovi, který mi během opravy radil, pomáhal řešit problémy a také mi asistoval při focení průběhu projektu. Díky jeho pomoci se mi podařilo projekt dokončit.
-
 ## Citace
 
 https://www.youtube.com/watch?v=UIXKp9zYqQc
