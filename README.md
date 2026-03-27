@@ -32,7 +32,7 @@ Nejprve jsem pomocí plastových demontážních páčidel odstranil velký plas
 <img width="400" height="1247" alt="image" src="https://github.com/user-attachments/assets/f310af85-b836-405e-93ef-a5f2d63d763b" /> <img width="400" height="1247" alt="image" src="https://github.com/user-attachments/assets/29fb53a7-dd93-4ed8-ade3-222a31e930c1" />
 
 
-
+Doma jsem z autorádia odstranil plastové ovládací prvky potenciometru, které slouží k regulaci hlasitosti. Následně jsem demontoval kovový kryt horní části rádia. Pod tímto krytem se nacházela CD mechanika, kterou jsem opatrně nadzvedl a odpojil plochý flexibilní kabel (FFC), jenž propojuje hlavní desku rádia s CD mechanikou a zajišťuje přenos řídicích signálů a dat.
 
 
 
