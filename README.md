@@ -43,7 +43,7 @@ Poté jsem oddělil displej od hlavní jednotky autorádia. Z displeje jsem demo
 <img width="200" height="1168" alt="image" src="https://github.com/user-attachments/assets/84e17c39-f6fb-40e8-8b33-13f454cc4789" /> <img width="200" height="1049" alt="image" src="https://github.com/user-attachments/assets/5f0213ab-30cd-4cd1-a5be-66a9d82c2334" /> <img width="200" height="1170" alt="image" src="https://github.com/user-attachments/assets/d7950526-7bb0-4307-9a20-f18980a693ea" /> <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/c155565e-2d96-430c-9ae0-9603cf5065ac" />
 
 
-
+Po vyjmutí tištěného spoje se v plastovém rámečku displeje nacházel už jen LCD modul s obrazovkou krytý kovovou deskou. 
 
 
 
