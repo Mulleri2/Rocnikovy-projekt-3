@@ -47,3 +47,6 @@ Poté jsem oddělil displej od hlavní jednotky autorádia. Z displeje jsem demo
 
 
 
+
+
+
