@@ -30,8 +30,7 @@ Při takovéto manipulaci s elektrickými částmi vozidla je obecně doporučen
 Nejprve jsem pomocí plastových demontážních páčidel odstranil velký plastový kryt palubní desky, který zakrývá prostor kolem autorádia a ovládání klimatizace. Následně jsem pomocí šroubováku vyšrouboval čtyři upevňovací šrouby, autorádio jsem opatrně povytáhl z palubní desky a odpojil přívodní kabely. Poté jsem autorádio celé vyjmul z vozidla a přenesl na pracovní místo.
 
 <img width="210" height="280" alt="image" src="https://github.com/user-attachments/assets/1002a536-dbb5-4458-89d2-03451b4bae8b" /> <img width="210" height="280" alt="image" src="https://github.com/user-attachments/assets/5d948e70-4f94-4806-b7fd-7b3430b8eacd" /> <img width="375" height="281" alt="image" src="https://github.com/user-attachments/assets/0f59f0e1-3d70-4668-a649-84a506729d39" />
-<img width="400" height="1247" alt="image" src="https://github.com/user-attachments/assets/f310af85-b836-405e-93ef-a5f2d63d763b" /> <img width="400" height="1247" alt="image" src="https://github.com/user-attachments/assets/29fb53a7-dd93-4ed8-ade3-222a31e930c1" />
-
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f310af85-b836-405e-93ef-a5f2d63d763b" /> <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/29fb53a7-dd93-4ed8-ade3-222a31e930c1" />
 
 Doma jsem z autorádia odstranil plastové ovládací prvky potenciometru, které slouží k regulaci hlasitosti. Následně jsem demontoval kovový kryt horní části rádia. Pod tímto krytem se nacházela CD mechanika, kterou jsem opatrně nadzvedl a odpojil plochý flexibilní kabel (FFC), jenž propojuje hlavní desku rádia s CD mechanikou a zajišťuje přenos řídicích signálů a dat.
 
