@@ -48,7 +48,7 @@ Po vyjmutí tištěného spoje se v plastovém rámečku displeje nacházel už 
 <img width="266" height="200" alt="oprava12" src="https://github.com/user-attachments/assets/ad1c4a87-4de8-4171-b46e-78d76d17020d" /> <img width="266" height="200" alt="oprava15" src="https://github.com/user-attachments/assets/eb69d10a-6d80-42af-9131-b8c4be0cc929" /> <img width="266" height="200" alt="oprava16" src="https://github.com/user-attachments/assets/27fd69fb-ed0a-49f3-984a-d595d57605a2" />
 
 
-
+Po dokončení montáže jsem celý modul autorádia opět nainstaloval zpět do vozidla a připojil všechny potřebné konektory. Následně jsem provedl zkoušku, při které byla ověřena správná funkce displeje i dotykové vrstvy. Zařízení pracovalo bez závad.
 
 
 
