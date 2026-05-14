@@ -43,7 +43,10 @@ Poté jsem oddělil displej od hlavní jednotky autorádia. Z displeje jsem demo
 <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/84e17c39-f6fb-40e8-8b33-13f454cc4789" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5f0213ab-30cd-4cd1-a5be-66a9d82c2334" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/d7950526-7bb0-4307-9a20-f18980a693ea" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/c155565e-2d96-430c-9ae0-9603cf5065ac" />
 
 
-Po vyjmutí tištěného spoje se v plastovém rámečku displeje nacházel už jen LCD modul s obrazovkou krytý kovovou deskou. 
+Po vyjmutí tištěného spoje se v plastovém rámečku displeje nacházel už jen LCD modul s obrazovkou krytý kovovou deskou. Tento modul jsem následně také vyjmul z rámečku. Původní dotykovou plochu jsem očistil vhodným čisticím prostředkem, z nové dotykové vrstvy jsem odstranil ochrannou fólii a následně ji nalepil přes tu původní. Poté jsem celé rádio opět sestavil, postupoval jsem podle pořízené fotodokumentace, která mi sloužila jako kontrola správného zapojení a sestavení jednotlivých částí.“
+
+<img width="671" height="503" alt="oprava12" src="https://github.com/user-attachments/assets/ad1c4a87-4de8-4171-b46e-78d76d17020d" />
+
 
 
 
