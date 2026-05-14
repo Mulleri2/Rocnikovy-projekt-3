@@ -40,13 +40,11 @@ Doma jsem z autorádia odstranil plastové ovládací prvky potenciometru, kter�
 
 Poté jsem oddělil displej od hlavní jednotky autorádia. Z displeje jsem demontoval zadní kovový kryt, čímž jsem získal přístup k jeho zadní straně, kde se nachází tištěný spoj. Před samotným vyjmutím tištěného spoje bylo nutné odpojit FFC kabely, které propojují dotykovou obrazovku s tímto spojem. Následně jsem vyšrouboval osm šroubků, které upevňovaly tištěný spoj k plastovému rámečku displeje. Při této činnosti jsem postupoval velmi opatrně, aby nedošlo k poškození tištěného spoje.
 
-<img width="200" height="1168" alt="image" src="https://github.com/user-attachments/assets/84e17c39-f6fb-40e8-8b33-13f454cc4789" /> <img width="200" height="1049" alt="image" src="https://github.com/user-attachments/assets/5f0213ab-30cd-4cd1-a5be-66a9d82c2334" /> <img width="200" height="1170" alt="image" src="https://github.com/user-attachments/assets/d7950526-7bb0-4307-9a20-f18980a693ea" /> <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/c155565e-2d96-430c-9ae0-9603cf5065ac" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/84e17c39-f6fb-40e8-8b33-13f454cc4789" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5f0213ab-30cd-4cd1-a5be-66a9d82c2334" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/d7950526-7bb0-4307-9a20-f18980a693ea" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/c155565e-2d96-430c-9ae0-9603cf5065ac" />
 
 
 Po vyjmutí tištěného spoje se v plastovém rámečku displeje nacházel už jen LCD modul s obrazovkou krytý kovovou deskou. 
 
-
-<img width="1566" height="1174" alt="oprava3" src="https://github.com/user-attachments/assets/dce5ca41-a74f-4ce9-bf78-62a53753440e" />
 
 
 
